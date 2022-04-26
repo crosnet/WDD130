@@ -1,0 +1,23 @@
+body {
+    background-color: #cbe6ec;
+}
+
+p {
+    color: rgb(59, 34, 34);
+    text-align: center;
+    
+}
+
+h1 {
+    text-align: center;
+    border:  2px solid #da8f60;
+    background-color: #da8f60;
+}
+
+h3 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
