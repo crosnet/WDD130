@@ -34,7 +34,7 @@ main section {
 body {
     background-color: #e9eff0;
     font-size: 22px;
-    font-family: 'Roboto Flex', sans-serif;; 
+    font-family: 'Roboto Flex', "Arial" sans-serif;; 
     margin: 0;
     padding: 0;
 }
