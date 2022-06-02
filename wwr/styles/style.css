@@ -74,7 +74,6 @@ header {
 .book:hover, .join:hover {
     background-color: #77d0e2;
     color: #F1FFFA;
-    font-style: bold;
 }
 
 .msg {
