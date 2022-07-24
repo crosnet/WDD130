@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    text-align: center;
+    margin-top: 200px;
+}
+
+h1 {
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+nav {
+    margin-top: 25px;
+}
+nav a {
+    text-align: center;
+    color: #F1FFFA;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: orangered;
+    font-family:'Courier New', Courier, monospace;
+}
+
+nav a:hover {
+    background-color: #fff;
+    color: orangered;;
+}
+
+p {
+    margin-top: 25px;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+
+@media screen and (max-width: 650px) {
+    h1 {
+        font-size: 20px;
+    }
+    nav {
+        margin-left: 50px;
+    }
+
+    nav a {
+        float: left;
+    }
+
+    p {
+        margin-top: 50px;
+        clear: both;
+        font-size: 15px;
+    }
+}

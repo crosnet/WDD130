@@ -524,8 +524,11 @@ form {
         display: none;
     }
     .home-title {
-        font-size: 25px;
+        font-size: 20px;
         color: #6f7364;
+    }
+    .our-services {
+        font-size: 15px;
     }
     .support-card, .web-card, .consultation-card { 
         margin: 50px auto;
