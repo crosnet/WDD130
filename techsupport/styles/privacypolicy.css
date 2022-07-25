@@ -1,0 +1,11 @@
+body {
+    width: 900px;
+    margin: 0 auto;
+    background-color: black;
+    color: white;
+}
+@media (max-width: 1104px) {
+    body {
+        width: 80%;
+    }
+}
